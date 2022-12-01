@@ -1,5 +1,2 @@
-[master 39e8b41] My first readme
- 3 files changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 0x03-git/c/c_is_fun.c
- create mode 100644 0x03-git/js/index.js
- create mode 100644 0x03-git/js/main.js
+[master 77d4888] My first readme
+ 1 file changed, 5 insertions(+), 1 deletion(-)
